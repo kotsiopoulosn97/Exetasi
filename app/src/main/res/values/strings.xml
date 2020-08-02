@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="find_ingredients">Εύρεση συστατικών και τιμής</string>
+    <string name="ingredients" />
+    <string name="price" />
+    <string name="show_food_steps">Tρόπος προετοιμασίας</string>
+
+    <string-array name="foods">
+        <item>ΑΥΓΑ ΤΗΓΑΝΗΤΑ</item>
+        <item>ΠΑΤΑΤΕΣ ΤΗΓΑΝΗΤΕΣ</item>
+        <item>ΦΑΣΟΛΙΑ ΣΟΥΠΑ</item>
+    </string-array>
+</resources>
